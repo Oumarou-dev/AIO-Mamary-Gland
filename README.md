@@ -1,5 +1,5 @@
 # AIO-Mamary-Gland
-Ce Repository contient deux fichiers:
+### Ce Repository contient deux fichiers:
 - un fichier MamelleBis.csv qui contient les différentes réactions biochimiques utilisées dans le cadre de la modélisation de la glande mammaire en lactation
 - un fichier Mammary Gland.ipynb qui est un code python sur jupyter notebook permettant de calculer les AIO d'une distribution extrémale.
     - Il lit le fichier MamelleBis.csv pour produire un model au format sbml
